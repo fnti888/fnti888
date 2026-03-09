@@ -8,7 +8,7 @@
 
 ### 🛡️ About Me
 ```yaml
-Name     : Frank NTI
+Name     : Frank Nti
 Role     : Cybersecurity Analyst
 Location : Greater Boston, MA
 Certs    : CompTIA Security+ | CySA+
