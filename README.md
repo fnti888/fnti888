@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fnti888/fnti888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8E0&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Frank+NTI;Cybersecurity+Analyst;SOC+Specialist;Builder+of+Security+Tools" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛡️ About Me
+```yaml
+Name     : Frank NTI
+Role     : Cybersecurity Analyst
+Location : Greater Boston, MA
+Certs    : CompTIA Security+ | CySA+
+Focus    : SOC Operations | Threat Detection | Incident Response
+Building : Defense Terminal — open-source SOC platform
+```
