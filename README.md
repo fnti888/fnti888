@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8E0&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Frank+NTI;Cybersecurity+Analyst;SOC+Specialist;Builder+of+Security+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8E0&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Frank+Nti;Cybersecurity+Analyst;SOC+Specialist;Builder+of+Security+Tools" alt="Typing SVG" />
 
 </div>
 
