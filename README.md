@@ -6,7 +6,7 @@
 
 ---
 
-### 🛡️ About Me
+### 🔒 About Me
 ```yaml
 Name     : Frank Nti
 Role     : Cybersecurity Analyst
